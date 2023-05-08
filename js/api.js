@@ -1,4 +1,4 @@
-const apiKey = '';
+const apiKey = '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';
 
 
 async function getRandomJoke() {
